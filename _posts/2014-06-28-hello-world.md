@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hello World
-intro: Finally, started a blog!
+intro: Finally, started a blog, super excited!
 ---
 Hello World
 ============
