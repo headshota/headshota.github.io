@@ -2,7 +2,7 @@
 layout: default
 title: Hello World
 intro: Finally, started a blog, super excited!
-meta_description: "test"
+meta_description: Finally, started a blog, super excited!
 ---
 Hello World
 ============
