@@ -134,27 +134,11 @@ strong {
 }
 
 img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
+ 
 }
 
 p img {
-  display: inline;
-  margin: 0;
-  padding: 0;
-  vertical-align: middle;
-  text-align: center;
-  border: none;
+
 }
 
 pre, code {
@@ -299,11 +283,17 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 100;
   text-shadow: #ff004d 0px 0px 6px;
+  text-transform: uppercase;
 }
 #project_title span{
   margin: 0;
   color: #0f0f0f;
   text-shadow: #fff 0px 0px 5px;
+}
+
+#portrait {
+  float:right; 
+  margin-right:10px;
 }
 
 #downloads {
