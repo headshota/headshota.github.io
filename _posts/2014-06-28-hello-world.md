@@ -2,9 +2,9 @@
 layout: default
 title: Hello World
 intro: Finally, started a blog, super excited! check out my introduction and some awesome links in the end.
-meta_description: Finally, started a blog, super excited!
+meta_description: Finally, started a blog, super excited! check out my introduction and some awesome links in the end.
 ---
-Hello World
+{{page.title}}
 ============
 
 Finally, I got to create my site/blog. After trying a lot of different options (Wordpress, Rails, CakePHP), I decided to go with [Jekyll](http://jekyllrb.com/) and must say, it is awesome! I totally recommend it to anyone, who's techy enough to install a single ruby gem and write a little bit of html. Also, Be sure to check [Jekyll Examples](https://github.com/jekyll/jekyll/wiki/Sites), if you decide to use it.
