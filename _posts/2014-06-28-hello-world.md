@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hello World
-intro: Finally, started a blog, super excited!
+intro: Finally, started a blog, super excited! check out my introduction and some awesome links in the end.
 meta_description: Finally, started a blog, super excited!
 ---
 Hello World
