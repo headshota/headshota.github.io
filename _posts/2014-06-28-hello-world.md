@@ -7,7 +7,7 @@ tags: hello world, introduction, jekyll, github pages, sublime, guerilla gardeni
 {{page.title}}
 ============
 
-Finally, I got to create my site/blog. After trying a lot of different options (Wordpress, Rails, CakePHP), I decided to go with [Jekyll](http://jekyllrb.com/) and must say, it is awesome! I totally recommend it to anyone, who's techy enough to install a single ruby gem and write a little bit of HTML. Also, Be sure to check [Jekyll Examples](https://github.com/jekyll/jekyll/wiki/Sites), if you decide to use it.
+Finally, I got to create my very own blog. After trying a lot of different options (Wordpress, Rails, CakePHP), I decided to go with [Jekyll](http://jekyllrb.com/) and must say, it is awesome! I totally recommend it to anyone, who's techy enough to install a single ruby gem and write a little bit of HTML. Also, Be sure to check [Jekyll Examples](https://github.com/jekyll/jekyll/wiki/Sites), if you decide to use it.
 
 Well as for this particular blog, I am not sure what I will be writing about. Most probably it will be a mix of my professional and personal experiences. I'm very excited to finally do this and will try to provide fun and interesting content.
 
