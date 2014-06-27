@@ -15,7 +15,7 @@ Here's a picture of stegosaurus:
 
 ![Fabulous Stegosaurus](/images/stego.jpg)
 
-Oh yeah, I don't know if it will work well or not, but in the end of each blog, I will have a list of several interesting resources, be it a new tool, service, website, news item or blog post from a fellow blogger.
+Oh yeah, I'm not sure how well it will work, but in the end of each blog, I will try to have a list of several interesting resources, be it a new tool, service, website, a book, a news item or blog post from a fellow blogger.
 
 So here are my picks for today:
 
