@@ -52,7 +52,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #212121;
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -338,6 +338,7 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
+  min-height:400px
 }
 
 #footer_wrap {
@@ -398,4 +399,19 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+.post-item header h2 {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    letter-spacing: 1px;
+    background: none;
+}
+
+.post-item header .post-date{
+  font-size:11px;
+  color: #aaa;
+  margin-bottom: 5px;
 }

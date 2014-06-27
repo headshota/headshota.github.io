@@ -4,10 +4,13 @@ title: My Humble Abode
 meta_description: Just For Fun
 ---
 {% for post in site.posts %}
-<div>
+<div class="post-item">
   <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>{{ post.intro }}</p>
+    <header>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="post-date">{{ post.date | date: "%B %d, %Y"}}</div>
+    </header>
+    {{ post.intro }}
   </article>
 </div>
 {% endfor %}

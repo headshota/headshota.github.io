@@ -2,7 +2,7 @@
 layout: default
 title: Hello World
 intro: Finally, started a blog and I'm super excited! check out my introduction and some awesome links in the end.
-meta_description: Finally, started a blog and I'm super excited check out my introduction and some awesome links in the end.
+tags: hello world, introduction, jekyll, github pages, sublime, guerilla gardening, simpsons
 ---
 {{page.title}}
 ============
@@ -19,7 +19,7 @@ Oh yeah, I don't know if it will work well or not, but in the end of each blog, 
 
 So here are my picks for today:
 
-- [Guerilla Gardening Tbilisi](https://www.facebook.com/Tbilisitrees?ref=br_tf) - A facebook page of Guerilla Gardening movement of my home city. Because nature is important!
 - [Github Pages](https://pages.github.com/) - A very convenient and reliable way of hosting your static web pages. and guess what, it can serve Jekyll applications.
 - [Sublime Text](http://www.sublimetext.com/) - Awesomest text editor out there.
 - [Simpsons CSS](http://pattle.github.io/simpsons-in-css/) - Simpsons cartoon characters rendered with pure css.
+- [Guerilla Gardening Tbilisi](https://www.facebook.com/Tbilisitrees?ref=br_tf) - A facebook page of Guerilla Gardening movement of my home city. Because nature is important!
