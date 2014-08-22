@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Let me tell you about GMOs
-intro: As of August 2014, Georgia (the country I'm froma) is adopting a law of mandatory labelling for products containing genetically modified organisms (GMOs). Though I don't have anything against labelling on its own, the purpose of it seems not to be the one it is meant to be. The media is announcing the introduction of mandatory labelling with headlines like&#58 "The customers will no longer be decieved", or "The customers will be protected from GMOs", etc. But What are the customers protected from?
+intro: As of August 2014, Georgia (the country I'm froma) is adopting a law of mandatory labelling for products containing genetically modified organisms (GMOs). Although I don't have anything against labelling on its own, the purpose of it seems not to be the one it is meant to be. The media is announcing the introduction of mandatory labelling with headlines like&#58 "The customers will no longer be decieved", or "The customers will be protected from GMOs", etc. But What are the customers protected from?
 ---
 {{page.title}}
 =====================
 
-As of August 2014, Georgia (the country I’m from) is adopting a law of mandatory labeling for products containing genetically modified organisms (GMOs). Though I don’t have anything against labeling on its own, the purpose of it seems not to be the one it is meant to be. The media is announcing the introduction of mandatory labeling with headlines like: “The customers will no longer be deceived”, or “The customers will be protected from GMOs”, etc. But What are the customers protected from?
+As of August 2014, Georgia (the country I’m from) is adopting a law of mandatory labeling for products containing genetically modified organisms (GMOs). Although I don’t have anything against labeling on its own, the purpose of it seems not to be the one it is meant to be. The media is announcing the introduction of mandatory labeling with headlines like: “The customers will no longer be deceived”, or “The customers will be protected from GMOs”, etc. But What are the customers protected from?
 
 There is no evidence whatsoever, proving GMO products having negative effects on health, I’m focusing on food products mostly here. Every product that was potentially harmful, was abandoned during the research phase and never ever reached the market. Besides that, we have been genetically modifying food for centuries, by cross-breeding plants and animals to make them more resistant to diseases, give larger and more nutritious fruit, make them esthetically appealing. Suddenly when breeding migrated to the lab, everybody panics. Is it really that scary? in traditional breeding we replace thousands of genes from one species with genes from another. Is it really more dangerous to replace targeted single or several genes only? Seems to me that it has to be safer.
 
