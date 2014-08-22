@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Let me tell you about GMOs
 intro: As of August 2014, Georgia (the country I'm froma) is adopting a law of mandatory labelling for products containing genetically modified organisms (GMOs). Although I don't have anything against labelling on its own, the purpose of it seems not to be the one it is meant to be. The media is announcing the introduction of mandatory labelling with headlines like&#58 "The customers will no longer be decieved", or "The customers will be protected from GMOs", etc. But What are the customers protected from?
 ---

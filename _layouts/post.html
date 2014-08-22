@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8' />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+	<meta name="description" content="Headshota.github.io : " />
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<title>headshota.github.io - {{ page.title }}</title>
+	{% include seo_meta.html %}	
+</head>
+
+<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<!-- HEADER -->
+	<div id="header_wrap" class="outer">
+		<header class="inner">
+			<h1 id="project_title"><a href="/">headshota.github.io</a></h1>
+			<img id="portrait" src="/images/portrait.png" width="200" alt="">
+			<p>Hey there! my name is Shota Bakuradze, I'm a software developer. Ruby and Javascript are my primary tools, but I try to stay as independent of specific technology as possible. I love coding, learning about programming fundamentals and best practices.
+			</p> 
+
+			<p>In spare time I enjoy playing my guitar, train mixed martial arts and sometimes even do some street photography.</p>
+
+			<p>You can reach me at: <a href="https://github.com/headshota">Github</a>, <a href="http://stackoverflow.com/users/433879/headshota">StackOverflow</a>, <a href="https://www.linkedin.com/profile/view?id=149593363">LinkedIn</a></p>
+		</header>
+	</div>
+
+	<div id="main_content_wrap" class="outer">
+		<section id="main_content" class="inner">
+			{{ content }}
+		</section>
+
+		<section class="inner">
+			<div class="fb-comments" data-href="http://headshota.github.io/{{ page.url }}" data-numposts="10" data-colorscheme="light" data-width="100%"></div>
+		</section>
+	</div>
+
+	<!-- FOOTER  -->
+	<div id="footer_wrap" class="outer">
+		<footer class="inner">
+			<p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+		</footer>
+	</div>
+
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-19796258-2', 'auto');
+		ga('send', 'pageview');
+
+	</script>
+
+</body>
+</html>

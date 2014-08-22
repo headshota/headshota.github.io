@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hello World
 intro: Finally, started a blog and I'm super excited! check out my introduction and some awesome links in the end.
 tags: hello world, introduction, jekyll, github pages, sublime, guerilla gardening, simpsons
