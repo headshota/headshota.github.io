@@ -401,6 +401,10 @@ Small Device Styles
 
 }
 
+.post-item {
+  margin-bottom: 40px;
+}
+
 .post-item header h2 {
     font-size: 16px;
     margin: 0;
