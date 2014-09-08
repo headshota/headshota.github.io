@@ -26,7 +26,7 @@ So what's good about it? First off all, It is one of the most effective martial 
 - better at assessing risks, when dealing with dangerous situations
 - less aggressive, because you leave all your aggression at the gym
 
-Second, It's an active sport, involving the whole body. You will be amazed how quick your body will become tougher, more agile and flexible. And Cardio. I really cringe when I remember my first classes, when I ran to bathroom to puke, Seriously it's a hell of a workout.
+Second, It's an active sport, involving the every part of your body. You will be amazed how quick your body will become tougher, more agile and flexible. And Cardio. I really cringe when I remember my first classes, when I ran to bathroom to puke, Seriously it's a hell of a workout.
 
 ![Alt text](http://www.getsumrun.com/wp-content/uploads/2014/06/tumblr_mzvac6ytuo1sismpto1_500.jpg)
 <sub style="font-size:11px">(No offense to crossfit people, just a joke ;))</sub>
