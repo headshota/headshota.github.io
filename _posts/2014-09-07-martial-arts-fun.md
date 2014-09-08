@@ -14,7 +14,7 @@ I had to face a very talented young grappler, who beat me, with ease, using an "
 
 What I want to achieve in this post is to introduce you to a "cult" of Brazilian Jiu Jitsu (BJJ) and try to show why is it good for you.
 
-My introduction to martial arts started with kickboxing/thai boxing, when my friend convinced me to start the class, together with him. I soon became a huge fan of the sport. Started following K1 championships actively. But after a year and a half of training, I broke my nose badly and had to undergo a long treatment. After which I never found time to continue with training. Though, I still actively followed the tournaments.
+My introduction to martial arts started with kickboxing/thai boxing, when my friend convinced me to start the class, together with him. I soon became a huge fan of the sport. Started following K1 championships actively. But after a year and a half of training, I broke my nose badly and had to undergo a long treatment. After that I never managed to find time to continue training. Though, I still actively followed the tournaments.
 
 A while after, K1 organization went almost bankrupt, They halted the tournaments for a while and I started to transfer to Mixed Martial Arts world, Particularly UFC. Soon, as you might expect, I also got addicted to it. 
 
