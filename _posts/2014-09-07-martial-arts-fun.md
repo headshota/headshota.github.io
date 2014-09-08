@@ -16,7 +16,7 @@ What I want to achieve in this post is to introduce you to a "cult" of Brazilian
 
 My introduction to martial arts started with kickboxing/thai boxing, when my friend convinced me to start the class, together with him. I soon became a huge fan of the sport. Started following K1 championships actively. But after a year and a half of training, I broke my nose badly and had to undergo a long treatment. After that I never managed to find time to continue training. Though, I still actively followed the tournaments.
 
-A while after, K1 organization went almost bankrupt, They halted the tournaments for a while and I started to transfer to Mixed Martial Arts world, Particularly UFC. Soon, as you might expect, I also got addicted to it. 
+A while after, K1 organization went almost bankrupt, They halted the tournaments for a while and I started to transfer to Mixed Martial Arts world, Particularly UFC. Soon, as you might expect, I also got very involved in it. 
 
 By the time I moved to Munich, Germany to do my Masters, I was already a big fan. As a guy who mostly sits in front of a screen, mostly browsing and coding, suffering from mild depression because of separation from my family and friends, I wanted do something involving physical activity. So I decided to go for the thing I was passionate about and joined a [Munich MMA](http://www.munich-mma.de/) club. Here I got introduced to BJJ and got hooked. And I mean it. It's like a drug. It is probably my number one priority in life now. Though I acknowledge that I won't be doing it professionally for obvious reasons (Started it at the age of 25), It brings immense amount of joy to my life and I think that's the most important thing to strive for.
 
