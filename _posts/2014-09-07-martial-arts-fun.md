@@ -10,7 +10,7 @@ A week ago I participated in a Brazilian Jiu Jitsu competition, my first ever sp
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/NHbVvaorFxQ" frameborder="0" allowfullscreen></iframe>
 
-I had to face a very talented young grappler, who beat me, with ease, using an "armbar", which nearly broke my arm. Bit disappointing, But what's good about it is, that I made huge improvements in my game, during preparations for this competition. And I would suggest everyone to compete more in whatever you do. It's fun and useful.
+I had to face a very talented young grappler, who beat me, with ease, using an "armbar", which nearly broke my arm. Bit disappointing, but what's good about it is, that I made huge improvements in my game, during preparations for this competition. And I would suggest everyone to compete more in whatever you do. It's fun and useful.
 
 What I want to achieve in this post is to introduce you to a "cult" of Brazilian Jiu Jitsu (BJJ) and try to show why is it good for you.
 
