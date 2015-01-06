@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Movie Review - Lives Of Others
+title: Movie Review - The Lives Of Others
 intro: A Movie about a dissident writer in eastern Germany, who is being surveilled by state security service.
 ---
 {{page.title}}
