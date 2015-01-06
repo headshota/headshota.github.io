@@ -26,6 +26,6 @@ The movie was a very pleasant experience. With a really good casting crew. I gre
 Also check these awesome movies:
 
 - [Gone Girl](http://www.imdb.com/title/tt2267998/) - easily a best movie of 2014, from David Fincher
-- [Cowboy Bebop - Knockin On Heaven's Door](http://www.imdb.com/title/tt0275277/) - As a big fan of anime series, I really enjoyed this full feature movie, which takes place between episodes 22 and 23.
+- [Cowboy Bebop - Knockin On Heaven's Door](http://www.imdb.com/title/tt0275277/) - As a big fan of the anime series, I really enjoyed this full feature movie, which takes place between episodes 22 and 23.
 - [Mud](http://www.imdb.com/title/tt1935179/) - A movie about a fugitive hiding on an island and two young boys helping him out.
 
