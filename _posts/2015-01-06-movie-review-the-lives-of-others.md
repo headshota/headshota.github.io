@@ -21,7 +21,7 @@ The character development of Gerd Wiesler reminded me of John Preston from "Equi
 
 ![Gerd Wiesler](http://static1.stopklatka.pl/library/CA/86/g-16.jpg/1.0/g-16.jpg)
 
-The movie was a very pleasant experience. With a really good crew. I greatly recommend to watch it. 8.5/10
+The movie was a very pleasant experience. With a really good casting crew. I greatly recommend to watch it. 8.5/10
 
 Also check these awesome movies:
 
