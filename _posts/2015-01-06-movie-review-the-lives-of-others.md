@@ -13,7 +13,7 @@ Yesterday I watched "The Lives Of Others", a German movie, directed by Florian H
 
 The action takes place in eastern Berlin, in 1984, where the state security agent Hauptmann Gerd Wiesler (Ulrich Mühe) is conducting a surveillance on a supposedly dissident writer Georg Dreyman (Sebastian Koch  Sebastian Koch) and his girlfriend Christa-Maria Sieland (Martina Gedeck).
 
-From the very beginning of the movie I got very fond to the Weisler's character, who is introduced as a true believer in socialist ideology. He considers it to be his moraly obligation to undermine all the enemies of GDR.
+From the very beginning of the movie I got very fond of the Weisler's character, who is introduced as a true believer in socialist ideology. He considers it to be his moraly obligation to undermine all the enemies of GDR.
 
 But, slowly during the surveillance operation, Weisler becomes sympathetic to Dreyman and Sieland and starts realizing the ugliness of the system, he so passionately believed in.
 
