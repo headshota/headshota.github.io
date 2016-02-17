@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+body { 
+  padding-top: 109px; 
+}
+
+#top-navigation {
+  height: 109px;
+  background-color:rgba(255, 255, 255, 0.98);
+}
+
+#top-navigation .navbar-header {
+  padding: 30px 0 30px 0;
+}
+
+.navbar-brand {
+  letter-spacing: 0.3em;
+}
+
+#navbar {
+  padding: 30px 0 30px 0;
+  font-family: 'PT Sans', sans-serif;
+  background-color:rgba(255, 255, 255, 0.98);
+  overflow-x: hidden;
+}
+
+#navbar li {
+  padding: 0 0 0 20px;
+}
+
+@media (min-width: 768px){
+  #navbar {
+    background-color: transparent;
+  } 
+  
+  #navbar li{
+    padding: 0;
+  }
+}
+
+#navbar li a{
+  letter-spacing: 0.2em;
+}
+#navbar li a:hover{
+  transition: color 1s ease;
+}
+
+#navbar li.active a{
+  background-color: inherit;
+  color: #facb1b;
+  transition: color 1s ease;
+}
