@@ -56,3 +56,7 @@ body {
   color: #facb1b;
   transition: color 1s ease;
 }
+
+#content-box {
+  text-align: justify;
+}
