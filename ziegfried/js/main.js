@@ -3,6 +3,7 @@
   var navbarToggle = $('.navbar-toggle');
   var topNavigation = $('#top-navigation');
 
+
   $(function(){
 
     topNavigation.find('a').on('click', function(e){

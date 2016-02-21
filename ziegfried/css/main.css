@@ -6,6 +6,21 @@
   }
 }
 
+.container-fluid section:nth-child(2n) {
+  background-color: whitesmoke;
+}
+
+@media (min-width: 768px){
+  .container-fluid {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container-fluid section {
+    padding: 20px 10%;
+  }
+}
+
 body { 
   padding-top: 109px; 
 }
