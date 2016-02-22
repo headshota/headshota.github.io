@@ -68,6 +68,7 @@ body {
 }
 #navbar li a:hover{
   transition: color 1s ease;
+  color: #facb1b;
 }
 
 #navbar li.active a{
