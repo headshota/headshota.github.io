@@ -10,12 +10,16 @@
   background-color: whitesmoke;
 }
 
-@media (min-width: 768px){
-  .container-fluid {
-    margin: 0;
-    padding: 0;
-  }
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
 
+.container-fluid section {
+  padding: 20px 10px;
+}
+
+@media (min-width: 768px){
   .container-fluid section {
     padding: 20px 10%;
   }
